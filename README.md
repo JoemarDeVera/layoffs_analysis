@@ -207,7 +207,7 @@ The data suggests that large technology companies were among the hardest hit, wi
 Insight:
 The data reveals that consumer-driven industries (Retail, Consumer, Transportation) were the hardest hit, while highly specialized sectors (Legal, Aerospace, Energy) experienced minimal layoffs. This suggests that layoffs were concentrated where large workforces and fluctuating demand intersected, especially in industries directly tied to consumer behavior and global supply chains.
 
-### Geographic Funding Breakdown
+### 3. Geographic Funding Breakdown
 ![Geographicvisual](charts_visuals/geographicvisual.png)
 
 - The United States (yellow) dominates global funding, recording over 1.1 million units of funding, making it the clear leader.
